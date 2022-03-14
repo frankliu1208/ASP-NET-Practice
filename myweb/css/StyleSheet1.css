@@ -1,0 +1,25 @@
+﻿#logintable {
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+}
+
+
+#indextable {
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+}
+
+#regtable {
+    text-align: center;
+    color: yellow;
+    border: 1px solid black;
+}
+
+
+#useredittable {
+    text-align: center;
+    color: dodgerblue;
+    border: 1px solid black;
+}
